@@ -1,0 +1,9 @@
+/Resource.designer.cs
+*.userprefs
+*.apk
+obj/
+bin/
+Debug/
+Components/
+_UpgradeReport_Files/
+**/Resource.designer.cs
