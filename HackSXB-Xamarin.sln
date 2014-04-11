@@ -87,6 +87,6 @@ Global
 		{F62EEF44-6226-48C6-8673-8C3DD614CC34}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = HackSXB.App.Android\HackSXB.App.Android.csproj
+		StartupItem = HackSXB.App.iOS\HackSXB.App.iOS.csproj
 	EndGlobalSection
 EndGlobal

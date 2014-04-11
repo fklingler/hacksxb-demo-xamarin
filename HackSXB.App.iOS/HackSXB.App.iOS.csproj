@@ -101,6 +101,9 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="QuestionTableViewController.cs" />
+    <Compile Include="QuestionTableViewCell.cs" />
+    <Compile Include="QuestionTableViewSource.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
